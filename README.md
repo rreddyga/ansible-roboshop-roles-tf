@@ -1,2 +1,1 @@
-# ansible-roboshop-roles
-ansible-roboshop-roles
+# ansible-roles
